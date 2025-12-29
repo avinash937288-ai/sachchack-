@@ -1,0 +1,8 @@
+{
+  "name": " sach tak 2",
+  "description": "web app",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
